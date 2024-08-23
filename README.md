@@ -2,6 +2,7 @@
 
 Realtime Chat Application was developed through the practice of TCP Socket Programming. By employing an echo client-server architecture, Realtime Chat Application sures low-latency in message delivery and compatibility in using the application. Below is the documentation of Realtime Chat Application:
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Key Variables of Server Side Chat Application
 - host_ip: Variable that defines the IP address to be passed in
